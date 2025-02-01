@@ -12,5 +12,5 @@ setup(
     description='Web scrapper',
     author='Shadow7x',
     author_email='loginvlad1000@gmail.com',
-    
+    url='https://github.com/Shadow7x/webscrapper'
 )
